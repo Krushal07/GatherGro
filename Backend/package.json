@@ -1,0 +1,23 @@
+{
+  "name": "gathergro",
+  "version": "1.0.0",
+  "description": "\" GatherGro: From Local Fields to Your Plate \" aims to revolutionize the way communities interact with local food systems. This innovative platform connects consumers directly with local farmers and food producers, fostering a more sustainable and transparent food supply chain. By providing a user-friendly interface for purchasing fresh, locally-sourced produce, we not only support local economies but also promote healthier eating habits and environmental stewardship. We are passionate about this project as it aligns with the growing global movement towards sustainability and conscious consumption. The benefits of undertaking this project are manifold. It offers an opportunity to contribute positively to local communities by boosting small-scale agriculture, reduces the carbon footprint associated with long-distance food transportation, and provides educational resources about sustainable practices. Additionally, this project presents a unique blend of technology and social impact, making it an exciting challenge that promises to deliver both tangible community benefits and valuable learning experiences in modern software development and digital marketing.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krushal07/GatherGro.git"
+  },
+  "author": "Hardik Patel, Krushal Sadariya, Dharm Jakasaniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krushal07/GatherGro/issues"
+  },
+  "homepage": "https://github.com/Krushal07/GatherGro#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
